@@ -1,0 +1,2 @@
+# configs
+csgo "software" configs
